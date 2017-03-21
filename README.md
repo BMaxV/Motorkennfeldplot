@@ -8,4 +8,4 @@ http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.contourf
 
 
 
-[![Plot](Fuelchart.svg?raw=True "The result")]
+![alt tag](Fuelchart.svg?raw=True "The result")
