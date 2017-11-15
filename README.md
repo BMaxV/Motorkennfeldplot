@@ -8,4 +8,4 @@ http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.contourf
 [Docs for this module here.]( https://motorkennfeldplot.readthedocs.io/en/latest/)
 
 
-![alt tag](Motorkennfeld.png)
+![alt tag](Motorkennfeldplot/Motorkennfeld.png)
